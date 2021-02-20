@@ -1,0 +1,36 @@
+body{
+    background: rgb(2, 48, 71,1);
+    background-image: url("../images/nm.png"), url("../images/leaf.png");
+    background-repeat: no-repeat;
+    background-position: right top, left top;
+   /* margin-right: 200px; */
+    background-attachment: fixed;
+    color: azure;    
+}
+
+h1{
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 4em;
+    color: rgb(251, 133, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 150px;
+    letter-spacing: 20px;
+    word-spacing: 50px;
+}
+
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+    color: rgb(251, 133, 0);
+    font-family: 'Kalam', cursive;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    
+}
+
+div{
+    line-height: 1.5;
+}
